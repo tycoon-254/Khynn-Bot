@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-antilink-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp anti-link bot using whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.20.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
